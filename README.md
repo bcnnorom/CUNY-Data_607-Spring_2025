@@ -2,7 +2,7 @@
 
 ## Project 3 Sign up
 
-Team 1:    
+Team 1:   Gullit Navarrete, Bethran Nnorom
 Team 2:   Alina Vikhnevich, Olivia Azevedo, Alyssa Gurkas*, Musrat Jahan*    
 Team 3:   Ali Ahmed*, Silma Khan*, Daniel Hanasab, Barakat Adigun    
 Team 4:   Samuel Crummett*, Cindy Lin*, William Forero*, Maxfield Raynolds*      
